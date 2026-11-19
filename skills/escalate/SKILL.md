@@ -16,6 +16,7 @@ This skill writes messages that hit those conditions honestly, in the first two 
 3. **No insults or venting.** Anger doesn't trigger escalation. Bots strip out the emotion and answer the keyword. Firm and factual is what works.
 4. **One issue per message.** Two problems give the bot two things to answer with articles.
 5. **Short.** A long story gives the bot material to match against help articles. Facts go in a bulleted block.
+6. **Always force a human decision.** End every message with direct questions only a person can answer: offers to send a recording or share a screen, who owns the case, when a decision is coming. A bot can answer a statement with an article; it can't approve a screen share or commit to a date.
 
 ## Workflow
 
@@ -73,6 +74,23 @@ Examples:
 - What was already tried and what support already said
 
 **The ask and deadline.** One specific outcome and a reasonable date: "Please confirm a fix or refund by [date]."
+
+**Close with questions that need a human decision.** Every message ends with 2–3 direct questions a bot can't answer from a help article: ones that need someone to look, judge, or commit. This turns "we're looking into it" into a choice someone has to make. Mix from:
+
+- *Evidence offers (beat the evidence gate before it's raised):*
+  - "Can I send you a screen recording of the issue to review? Who should I send it to?"
+  - "What kind of screen grab or log do you need: a recording of the full process, a screenshot of the result, or something else?"
+  - "Can we set up a screen share so you can watch it happen live? What times work?"
+  - "Can you look at my account directly and see the failed [merges/charges/orders]?"
+- *Ownership:*
+  - "Who is reviewing this, and can you confirm it's assigned to a named person?"
+  - "Is this being escalated to [engineering/billing/a supervisor]? If not, what would it take?"
+- *Commitment:*
+  - "When will I hear back with a decision, not a status update?"
+  - "Is this a known issue? If so, is there a fix date?"
+  - "Can you approve [the refund/replacement/credit], or who can?"
+
+Ask yes/no or pick-one questions where possible. They're harder to dodge than open questions. Don't stack more than three, and keep the questions directly above the signature so they're the last thing read.
 
 **Next step, stated factually, not as a threat.** Only the leverage the user confirmed:
 - "If this can't be resolved, I'd like to cancel and discuss a refund."

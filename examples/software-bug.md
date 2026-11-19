@@ -32,6 +32,10 @@
 >
 > Please route this to a human on the technical team. If it can't be fixed, I'd like to discuss a refund.
 >
+> - Can someone review the attached recording, or would a live screen share be more useful? I'm available [times].
+> - Can you look at my account directly and see the failed merges?
+> - Who is this assigned to, and when can I expect a decision on a fix?
+>
 > [Name]
 
-**Why it works:** labels itself as a defect (not how-to), refuses the canned steps up front, supplies every piece of gate evidence, asks for a human by role, and adds a true money trigger (refund).
+**Why it works:** labels itself as a defect (not how-to), refuses the canned steps up front, supplies every piece of gate evidence, asks for a human by role, adds a true money trigger (refund), and ends with questions only a person can answer: review this, look at the account, name an owner and a date.

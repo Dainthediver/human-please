@@ -21,6 +21,7 @@ STEP 3: Write the email:
 - FIRST TWO LINES (for the bot's triage): what this is ("defect report, not a how-to question" / "formal complaint"), the repeat count and ticket numbers, an explicit request to route to a human/supervisor, and "please don't send help articles, I've already done X, Y, Z."
 - BODY (for the human): bulleted facts: account/order/version, steps or timeline with dates, expected vs. actual, evidence attached, what support already said.
 - ASK: one specific outcome + a reasonable deadline.
+- DECISION QUESTIONS: end with 2–3 direct questions that need a human to decide or commit, not a help article. For example: "Can I send a screen recording of the issue for you to review?", "What kind of screen grab do you need?", "Can we set up a screen share so you can see it live?", "Who is this assigned to?", "When will I get a decision?", "Can you approve the refund, or who can?" Prefer yes/no or pick-one questions.
 - NEXT STEP: only the leverage I confirmed, stated as fact, not as a threat.
 
 STEP 4: Give me (1) the subject + email, (2) 2–3 lines on which triggers you used, (3) a follow-up plan: what to send if no human replies, and the next channels to try in order.
